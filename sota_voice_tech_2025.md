@@ -1,6 +1,6 @@
 # State-of-the-Art Voice Technology 2025: Technical Comparison
 
-## Technical Architecture Comparison
+
 
 ### Latency Performance
 | Platform | Average Latency | Real-time Capable | Streaming Support |
